@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="ProductManagement.API.Tests/ProductManagement.API.Tests.csproj" />
+  <Project Path="ProductManagement.Application.Tests/ProductManagement.Application.Tests.csproj" />
+  <Project Path="ProductManagement.Application/ProductManagement.Application.csproj" />
+  <Project Path="ProductManagement.Domain/ProductManagement.Domain.csproj" />
+  <Project Path="ProductManagement.Infrastructure.Tests/ProductManagement.Infrastructure.Tests.csproj" />
+  <Project Path="ProductManagement.Infrastructure/ProductManagement.Infrastructure.csproj" />
+  <Project Path="ProductManagementSolution/ProductManagementAPI.csproj" />
+</Solution>
